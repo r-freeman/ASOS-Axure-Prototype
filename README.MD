@@ -4,7 +4,7 @@ Working prototype of ASOS' website built in Axure RP.
 
 ## About this project
 
-This project is a recreation of the ASOS website circa 2017. As part of a college assignment, I was tasked with reverse engineering an existing website to identify the grid system, typography, colour scheme and UI components. Having identified these elements, a functioning prototype of the website was created using [Axure RP](https://www.axure.com/).
+This project is a recreation of the ASOS website circa 2017. As part of a college assignment, I was tasked with reverse engineering an existing website to identify the grid system, typography, colour scheme and UI components. Having identified these elements, I created a functioning prototype of the website using [Axure RP](https://www.axure.com/).
 
 ### Original website
 
